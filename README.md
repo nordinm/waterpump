@@ -1,3 +1,3 @@
 # waterpump
 
-This is a solution to controle a drain pump based on measured water level.
+This is a solution to control a drain pump based on measured water level.
